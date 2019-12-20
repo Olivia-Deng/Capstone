@@ -1,0 +1,8 @@
+Kernelized Synaptic Weight Matrices：
+https://colab.research.google.com/drive/1l5EP5dMe0XPEQ1H85iuIQE8cQus0O1qm 
+
+Graph Convolutional Matrix Completion:
+https://colab.research.google.com/drive/1WY6c6isb4ahwz11lnCniFDwmUL7KRafu
+
+Towards Amortized Ranking-Critical Training for Collaborative Filtering:
+https://colab.research.google.com/drive/1bxyrGw4HW-8Sxp68rYPfRtAECqsC6l5g 
